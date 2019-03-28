@@ -1,0 +1,606 @@
+{
+  "biome": "nex:torrid_wasteland",
+  "weight": 6,
+  "enabled": true,
+  "genDefaultFeatures": true,
+  "blocks": {
+    "topBlock": {
+      "block": "nex:netherrack",
+      "properties": {
+        "type": "fiery"
+      }
+    },
+    "fillerBlock": {
+      "block": "nex:netherrack",
+      "properties": {
+        "type": "fiery"
+      }
+    },
+    "wallBlock": {
+      "block": "nex:netherrack",
+      "properties": {
+        "type": "fiery"
+      }
+    },
+    "ceilingBottomBlock": {
+      "block": "nex:netherrack",
+      "properties": {
+        "type": "fiery"
+      }
+    },
+    "ceilingFillerBlock": {
+      "block": "nex:netherrack",
+      "properties": {
+        "type": "fiery"
+      }
+    },
+    "oceanBlock": {
+      "block": "minecraft:lava"
+    }
+  },
+  "entities": [
+    {
+      "entity": "minecraft:magma_cube",
+      "creatureType": "monster",
+      "weight": 25,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "nex:ember",
+      "creatureType": "monster",
+      "weight": 50,
+      "minGroupCount": 4,
+      "maxGroupCount": 6,
+      "spawn": true
+    },
+    {
+      "entity": "nex:salamander",
+      "creatureType": "monster",
+      "weight": 100,
+      "minGroupCount": 1,
+      "maxGroupCount": 4,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:bomb_carrier",
+      "creatureType": "monster",
+      "weight": 1,
+      "minGroupCount": 0,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:irkling",
+      "creatureType": "monster",
+      "weight": 100,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:reaper_twins",
+      "creatureType": "monster",
+      "weight": 60,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:roloscope",
+      "creatureType": "monster",
+      "weight": 100,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:wood_giant",
+      "creatureType": "monster",
+      "weight": 50,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:triclops",
+      "creatureType": "monster",
+      "weight": 60,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:vertebron",
+      "creatureType": "monster",
+      "weight": 100,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:walker",
+      "creatureType": "monster",
+      "weight": 70,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:everbeast",
+      "creatureType": "monster",
+      "weight": 2,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:faceless_runner",
+      "creatureType": "monster",
+      "weight": 65,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:ghost",
+      "creatureType": "monster",
+      "weight": 65,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:mother_void_walker",
+      "creatureType": "monster",
+      "weight": 65,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:shadow",
+      "creatureType": "monster",
+      "weight": 65,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:trickster",
+      "creatureType": "monster",
+      "weight": 40,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:void_charger",
+      "creatureType": "monster",
+      "weight": 65,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:void_walker",
+      "creatureType": "monster",
+      "weight": 65,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:headless_destroyer",
+      "creatureType": "monster",
+      "weight": 60,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:bloodmist",
+      "creatureType": "monster",
+      "weight": 60,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:linger",
+      "creatureType": "monster",
+      "weight": 60,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:bugeye",
+      "creatureType": "monster",
+      "weight": 70,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:dicer",
+      "creatureType": "monster",
+      "weight": 35,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:ghostly_bugeye",
+      "creatureType": "monster",
+      "weight": 100,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:ghostly_charger",
+      "creatureType": "monster",
+      "weight": 100,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:ghostly_cyclops",
+      "creatureType": "monster",
+      "weight": 100,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:ghostly_night_reaper",
+      "creatureType": "monster",
+      "weight": 100,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:ghostly_sasquatch",
+      "creatureType": "monster",
+      "weight": 100,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:terrestrial",
+      "creatureType": "monster",
+      "weight": 2,
+      "minGroupCount": 0,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:skellox",
+      "creatureType": "monster",
+      "weight": 60,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:scrubby",
+      "creatureType": "monster",
+      "weight": 60,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:night_watcher",
+      "creatureType": "monster",
+      "weight": 60,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:night_reaper",
+      "creatureType": "monster",
+      "weight": 35,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:demon_reaper",
+      "creatureType": "monster",
+      "weight": 1,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:dark_beast",
+      "creatureType": "monster",
+      "weight": 60,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:clown",
+      "creatureType": "monster",
+      "weight": 65,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:host",
+      "creatureType": "monster",
+      "weight": 40,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:death_hunter",
+      "creatureType": "monster",
+      "weight": 40,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:anemia",
+      "creatureType": "monster",
+      "weight": 35,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:modulo",
+      "creatureType": "monster",
+      "weight": 100,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:chimera",
+      "creatureType": "monster",
+      "weight": 75,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:boneback",
+      "creatureType": "monster",
+      "weight": 75,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:elkanyne",
+      "creatureType": "monster",
+      "weight": 75,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:rammerhead",
+      "creatureType": "monster",
+      "weight": 75,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "mowziesmobs:barakoana",
+      "creatureType": "monster",
+      "weight": 4,
+      "minGroupCount": 1,
+      "maxGroupCount": 1,
+      "spawn": true
+    },
+    {
+      "entity": "aoa3:spawn_fluffer_ignore",
+      "creatureType": "ambient",
+      "weight": 20,
+      "minGroupCount": 0,
+      "maxGroupCount": 0,
+      "spawn": true
+    }
+  ],
+  "features": [
+    {
+      "feature": "lex:fluid",
+      "genStage": "populate",
+      "blockToSpawn": {
+        "block": "minecraft:flowing_lava"
+      },
+      "blockToTarget": {
+        "block": "nex:netherrack",
+        "properties": {
+          "type": "fiery"
+        }
+      },
+      "hidden": false,
+      "genAttempts": 16,
+      "genProbability": 1.0,
+      "minGenHeight": 4,
+      "maxGenHeight": 124,
+      "randomizeGenAttempts": false,
+      "generate": true
+    },
+    {
+      "feature": "lex:scatter",
+      "genStage": "populate",
+      "blockToSpawn": {
+        "block": "minecraft:fire"
+      },
+      "blockToTarget": {
+        "block": "nex:netherrack",
+        "properties": {
+          "type": "fiery"
+        }
+      },
+      "placement": "on_ground",
+      "genAttempts": 20,
+      "genProbability": 1.0,
+      "minGenHeight": 4,
+      "maxGenHeight": 124,
+      "randomizeGenAttempts": true,
+      "generate": true
+    },
+    {
+      "feature": "lex:cluster",
+      "genStage": "populate",
+      "blockToSpawn": {
+        "block": "minecraft:glowstone"
+      },
+      "blockToAttachTo": {
+        "block": "nex:netherrack",
+        "properties": {
+          "type": "fiery"
+        }
+      },
+      "direction": "down",
+      "genAttempts": 10,
+      "genProbability": 1.0,
+      "minGenHeight": 4,
+      "maxGenHeight": 124,
+      "randomizeGenAttempts": true,
+      "generate": true
+    },
+    {
+      "feature": "lex:cluster",
+      "genStage": "populate",
+      "blockToSpawn": {
+        "block": "minecraft:glowstone"
+      },
+      "blockToAttachTo": {
+        "block": "nex:netherrack",
+        "properties": {
+          "type": "fiery"
+        }
+      },
+      "direction": "down",
+      "genAttempts": 10,
+      "genProbability": 1.0,
+      "minGenHeight": 1,
+      "maxGenHeight": 128,
+      "randomizeGenAttempts": false,
+      "generate": true
+    },
+    {
+      "feature": "lex:ore",
+      "genStage": "ore",
+      "blockToSpawn": {
+        "block": "nex:quartz_ore",
+        "properties": {
+          "type": "fiery"
+        }
+      },
+      "blockToReplace": {
+        "block": "nex:netherrack",
+        "properties": {
+          "type": "fiery"
+        }
+      },
+      "veinSize": 14,
+      "genAttempts": 16,
+      "genProbability": 1.0,
+      "minGenHeight": 10,
+      "maxGenHeight": 108,
+      "randomizeGenAttempts": false,
+      "generate": true
+    },
+    {
+      "feature": "lex:ore",
+      "genStage": "populate",
+      "blockToSpawn": {
+        "block": "nex:basalt",
+        "properties": {
+          "type": "normal"
+        }
+      },
+      "blockToReplace": {
+        "block": "nex:netherrack",
+        "properties": {
+          "type": "fiery"
+        }
+      },
+      "veinSize": 24,
+      "genAttempts": 14,
+      "genProbability": 1.0,
+      "minGenHeight": 10,
+      "maxGenHeight": 108,
+      "randomizeGenAttempts": false,
+      "generate": true
+    },
+    {
+      "feature": "lex:ore",
+      "genStage": "populate",
+      "blockToSpawn": {
+        "block": "minecraft:magma"
+      },
+      "blockToReplace": {
+        "block": "nex:netherrack",
+        "properties": {
+          "type": "fiery"
+        }
+      },
+      "veinSize": 32,
+      "genAttempts": 8,
+      "genProbability": 1.0,
+      "minGenHeight": 28,
+      "maxGenHeight": 38,
+      "randomizeGenAttempts": false,
+      "generate": true
+    },
+    {
+      "feature": "lex:fluid",
+      "genStage": "populate",
+      "blockToSpawn": {
+        "block": "minecraft:flowing_lava"
+      },
+      "blockToTarget": {
+        "block": "nex:netherrack",
+        "properties": {
+          "type": "fiery"
+        }
+      },
+      "hidden": true,
+      "genAttempts": 16,
+      "genProbability": 1.0,
+      "minGenHeight": 10,
+      "maxGenHeight": 118,
+      "randomizeGenAttempts": false,
+      "generate": true
+    },
+    {
+      "feature": "lex:pool",
+      "genStage": "populate",
+      "blockToSpawn": {
+        "block": "minecraft:lava"
+      },
+      "blockToSurround": {
+        "block": "nex:netherrack",
+        "properties": {
+          "type": "fiery"
+        }
+      },
+      "genAttempts": 8,
+      "genProbability": 1.0,
+      "minGenHeight": 10,
+      "maxGenHeight": 108,
+      "randomizeGenAttempts": false,
+      "generate": true
+    }
+  ]
+}
