@@ -1,34 +1,34 @@
+# Add the following to your gitignore:
 
+# Instance Sync
+**/*.jar
+!InstanceSync*.jar
+**/*.jar.disabled
+**/*.jar.meta
+
+# Optional: Generic Modpack Ignores
+**/*.log
+/.mixin.out
+/saves
+/downloads
+/resourcepacks
+.curseclient
+options.txt
 journeymap/
-
-\.mixin\.out/
-
-astralsorcery/
 
 llibrary/
 
 logs/
 
-saves/
-
-options\.txt
-
-usernamecache\.json
-
-usercache\.json
-
-crafttweaker\.log
-
-\.ReAuth\.cfg
-
-mods/
-
-textures_0\.png
-
-patchouli_data\.json
-
+crash-reports/
 betweenlands_gallery/
 
-crash-reports/
+astralsorcery/
 
-dropt.log
+textures_0.png
+
+usercache.json
+
+usernamecache.json
+
+patchouli_data.json

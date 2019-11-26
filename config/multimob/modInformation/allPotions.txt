@@ -26,6 +26,7 @@ minecraft:levitation
 minecraft:luck
 minecraft:unluck
 naturesaura:breathless
+dungeontactics:cryo_effect
 rustic:ironskin
 rustic:feather
 rustic:blazing_trail

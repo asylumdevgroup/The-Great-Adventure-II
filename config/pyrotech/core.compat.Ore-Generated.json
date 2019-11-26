@@ -67,6 +67,7 @@
         "atum:tile.atum.goldOre",
         "cyclicmagic:tile.end_gold_ore",
         "cyclicmagic:tile.nether_gold_ore",
+        "dungeontactics:tile.dungeontactics:nethergold_ore",
         "erebus:tile.erebus.ore_gold",
         "minecraft:tile.oreGold"
       ],
@@ -99,6 +100,15 @@
         "thaumcraft:nugget:4"
       ]
     },
+    "oreMithril": {
+      "slagColor": "9cf9ff",
+      "langKey": [
+        "dungeontactics:tile.dungeontactics:mithril_ore"
+      ],
+      "output": [
+        "dungeontactics:mithril_nugget:0"
+      ]
+    },
     "oreNickel": {
       "slagColor": "e4e5d8",
       "langKey": [
@@ -121,12 +131,14 @@
       "slagColor": "e8f6fd",
       "langKey": [
         "bewitchment:tile.bewitchment.silver_ore",
+        "dungeontactics:tile.dungeontactics:silver_ore",
         "embers:tile.ore_silver",
         "iceandfire:tile.iceandfire.silverOre",
         "mysticalworld:tile.silver_ore"
       ],
       "output": [
         "bewitchment:silver_nugget:0",
+        "dungeontactics:silver_nugget:0",
         "embers:nugget_silver:0",
         "iceandfire:silver_nugget:0",
         "mysticalworld:silver_nugget:0",
