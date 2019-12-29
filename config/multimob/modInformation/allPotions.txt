@@ -89,6 +89,9 @@ bewitchment:revealing
 bewitchment:disrobing
 bewitchment:sinking
 bewitchment:cursed_leaps
+bewitchment:hellfire
+bewitchment:fear
+bewitchment:mortal_coil
 thaumcraft:fluxtaint
 thaumcraft:visexhaust
 thaumcraft:infectiousvisexhaust
@@ -119,7 +122,7 @@ divinefavor:extreme_buoyancy
 divinefavor:fall_negation
 divinefavor:fins
 divinefavor:focused_fury
-divinefavor:potion_gills
+divinefavor:gills
 divinefavor:ground_flow
 divinefavor:grudge
 divinefavor:hovering
@@ -197,10 +200,10 @@ wizardry:suffocate
 wizardry:bouncing
 wizardry:time_lcok
 wizardry:grace
-mowziesmobs:suns_blessing
-mowziesmobs:geomancy
-mowziesmobs:frozen
-mowziesmobs:poison_resist
+bewitchment:suns_blessing
+bewitchment:geomancy
+bewitchment:frozen
+bewitchment:poison_resist
 mysticalwildlife:shocked
 mysticalwildlife:breeding
 mysticalwildlife:breeding_instant

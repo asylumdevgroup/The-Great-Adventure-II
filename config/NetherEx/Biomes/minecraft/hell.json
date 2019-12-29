@@ -62,12 +62,6 @@
 			"maximumGroupCount": 4
 		}, 
 		{
-			"entity": "bewitchment:serpent",
-			"spawnWeight": 6,
-			"minimumGroupCount": 1,
-			"maximumGroupCount": 4
-		}, 
-		{
 			"entity": "abyssalcraft:demonpig",
 			"spawnWeight": 15,
 			"minimumGroupCount": 1,
@@ -290,6 +284,54 @@
 			"maximumGroupCount": 1
 		}, 
 		{
+			"entity": "primitivemobs:flame_spewer",
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:flame_spewer",
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:flame_spewer",
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:flame_spewer",
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:flame_spewer",
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:flame_spewer",
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:flame_spewer",
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
+			"entity": "primitivemobs:flame_spewer",
+			"spawnWeight": 100,
+			"minimumGroupCount": 1,
+			"maximumGroupCount": 1
+		}, 
+		{
 			"entity": "mysticalworld:entity_lava_cat",
 			"spawnWeight": 2,
 			"minimumGroupCount": 1,
@@ -350,14 +392,14 @@
 			"maximumGroupCount": 1
 		}, 
 		{
-			"entity": "multimob:dummy",
-			"spawnWeight": 50,
+			"entity": "primitivemobs:flame_spewer",
+			"spawnWeight": 100,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1
 		}, 
 		{
-			"entity": "primitivemobs:flame_spewer",
-			"spawnWeight": 100,
+			"entity": "multimob:dummy",
+			"spawnWeight": 50,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1
 		}, 

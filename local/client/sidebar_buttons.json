@@ -4,6 +4,9 @@
 		"settings": true,
 		"admin_panel": true
 	},
+	"ftbguides": {
+		"guides": true
+	},
 	"ftbquests": {
 		"quests": true
 	},
