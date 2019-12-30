@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-12-29T04:11:54.5450011Z",
+  "lastPlayed": "2019-12-30T00:10:38.3562948Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -2773,21 +2773,6 @@
       "fileSize": 2099295
     },
     {
-      "folderName": "TheBetweenlands-3.4.6-universal.jar",
-      "fingerprint": 3803184697,
-      "fileDateHash": 2655414820,
-      "sectionID": 6,
-      "individualFingerprints": [
-        3803184697
-      ],
-      "status": 1,
-      "timestamp": "2019-03-28T23:50:44.3518713Z",
-      "lastWriteTimeUtc": "2019-03-27T23:45:52.2360337Z",
-      "queryTimestamp": "2019-11-26T19:02:16.3146453Z",
-      "fileCount": 1,
-      "fileSize": 80673125
-    },
-    {
       "folderName": "journeymap-1.12.2-5.5.5.jar",
       "fingerprint": 2552236716,
       "fileDateHash": 3347920379,
@@ -2801,6 +2786,21 @@
       "queryTimestamp": "2019-11-26T19:02:16.3136473Z",
       "fileCount": 1,
       "fileSize": 1920463
+    },
+    {
+      "folderName": "TheBetweenlands-3.4.6-universal.jar",
+      "fingerprint": 3803184697,
+      "fileDateHash": 2655414820,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3803184697
+      ],
+      "status": 1,
+      "timestamp": "2019-03-28T23:50:44.3518713Z",
+      "lastWriteTimeUtc": "2019-03-27T23:45:52.2360337Z",
+      "queryTimestamp": "2019-11-26T19:02:16.3146453Z",
+      "fileCount": 1,
+      "fileSize": 80673125
     },
     {
       "folderName": "VoidCraft-1.12-0.26.10.jar",
@@ -7204,7 +7204,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 237541,
@@ -7839,7 +7839,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 74924,
@@ -10754,7 +10754,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 237167,
@@ -10975,6 +10975,77 @@
       "installedTargets": null
     },
     {
+      "addonID": 243298,
+      "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
+      "installedFile": {
+        "id": 2704186,
+        "displayName": "LLibrary 1.7.19",
+        "fileName": "llibrary-1.7.19-1.12.2.jar",
+        "fileDate": "2019-04-27T07:08:15.22Z",
+        "fileLength": 884837,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2704/186/llibrary-1.7.19-1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 2704187,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3471623170,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1107678282,
+            "type": 0
+          },
+          {
+            "foldername": "llibrary-core-1.0.11-1.12.2.jar",
+            "fingerprint": 745504321,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2272383311,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 3653886756,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 507777411,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "llibrary-1.7.19-1.12.2.jar"
+      },
+      "dateInstalled": "2019-03-27T23:42:35.4242472Z",
+      "dateUpdated": "2019-06-01T01:23:39.126152Z",
+      "dateLastUpdateAttempted": "2019-06-01T01:23:39.126152Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 228816,
       "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
       "installedFile": {
@@ -11041,77 +11112,6 @@
       "dateInstalled": "2019-03-27T23:39:37.8934236Z",
       "dateUpdated": "2019-06-01T01:23:52.179226Z",
       "dateLastUpdateAttempted": "2019-06-01T01:23:52.179226Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 243298,
-      "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
-      "installedFile": {
-        "id": 2704186,
-        "displayName": "LLibrary 1.7.19",
-        "fileName": "llibrary-1.7.19-1.12.2.jar",
-        "fileDate": "2019-04-27T07:08:15.22Z",
-        "fileLength": 884837,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2704/186/llibrary-1.7.19-1.12.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 2704187,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3471623170,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1107678282,
-            "type": 0
-          },
-          {
-            "foldername": "llibrary-core-1.0.11-1.12.2.jar",
-            "fingerprint": 745504321,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2272383311,
-            "type": 0
-          },
-          {
-            "foldername": "net",
-            "fingerprint": 3653886756,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 507777411,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "llibrary-1.7.19-1.12.2.jar"
-      },
-      "dateInstalled": "2019-03-27T23:42:35.4242472Z",
-      "dateUpdated": "2019-06-01T01:23:39.126152Z",
-      "dateLastUpdateAttempted": "2019-06-01T01:23:39.126152Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -11235,6 +11235,80 @@
       "installedTargets": null
     },
     {
+      "addonID": 221585,
+      "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
+      "installedFile": {
+        "id": 2492586,
+        "displayName": "RoguelikeDungeons-1.12.2-1.8.0.jar",
+        "fileName": "RoguelikeDungeons-1.12.2-1.8.0.jar",
+        "fileDate": "2017-10-20T19:07:15.16Z",
+        "fileLength": 701215,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2492/586/RoguelikeDungeons-1.12.2-1.8.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 3
+          },
+          {
+            "foldername": "greymerk",
+            "fingerprint": 4210190164,
+            "type": 3
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 42257697,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 4054234996,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": true,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 591195,
+        "projectId": 221585,
+        "packageFingerprintId": 206679975,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 1460421,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "RoguelikeDungeons-1.12.2-1.8.0.jar"
+      },
+      "dateInstalled": "2019-11-26T19:02:16.595892Z",
+      "dateUpdated": "2018-11-26T19:02:16.595892Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 230497,
       "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
       "installedFile": {
@@ -11315,80 +11389,6 @@
       },
       "dateInstalled": "2019-11-26T19:02:16.5938983Z",
       "dateUpdated": "2018-11-26T19:02:16.5938983Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 221585,
-      "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
-      "installedFile": {
-        "id": 2492586,
-        "displayName": "RoguelikeDungeons-1.12.2-1.8.0.jar",
-        "fileName": "RoguelikeDungeons-1.12.2-1.8.0.jar",
-        "fileDate": "2017-10-20T19:07:15.16Z",
-        "fileLength": 701215,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2492/586/RoguelikeDungeons-1.12.2-1.8.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2464251221,
-            "type": 3
-          },
-          {
-            "foldername": "greymerk",
-            "fingerprint": 4210190164,
-            "type": 3
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 42257697,
-            "type": 3
-          }
-        ],
-        "packageFingerprint": 4054234996,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": true,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 591195,
-        "projectId": 221585,
-        "packageFingerprintId": 206679975,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1460421,
-        "gameVersionId": 4458,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "RoguelikeDungeons-1.12.2-1.8.0.jar"
-      },
-      "dateInstalled": "2019-11-26T19:02:16.595892Z",
-      "dateUpdated": "2018-11-26T19:02:16.595892Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
@@ -11736,6 +11736,90 @@
       "installedTargets": null
     },
     {
+      "addonID": 60089,
+      "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
+      "installedFile": {
+        "id": 2671937,
+        "displayName": "[1.12.2] Mouse Tweaks 2.10",
+        "fileName": "MouseTweaks-2.10-mc1.12.2.jar",
+        "fileDate": "2019-02-11T11:33:40.123Z",
+        "fileLength": 75170,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2671/937/MouseTweaks-2.10-mc1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 2671938,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3802495670,
+            "type": 3
+          },
+          {
+            "foldername": "yalter",
+            "fingerprint": 2419623870,
+            "type": 3
+          },
+          {
+            "foldername": "litemod.json",
+            "fingerprint": 3374986446,
+            "type": 3
+          },
+          {
+            "foldername": "mousetweaks_logo.png",
+            "fingerprint": 523611981,
+            "type": 3
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 101733854,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 533666569,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1512844,
+        "projectId": 60089,
+        "packageFingerprintId": 292946671,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 1751443,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "MouseTweaks-2.10-mc1.12.2.jar"
+      },
+      "dateInstalled": "2019-11-26T19:02:16.595892Z",
+      "dateUpdated": "2018-11-26T19:02:16.595892Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 306283,
       "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
       "installedFile": {
@@ -11809,90 +11893,6 @@
       "dateInstalled": "2019-03-27T23:43:56.8694814Z",
       "dateUpdated": "2019-11-07T01:31:43.648536Z",
       "dateLastUpdateAttempted": "2019-11-07T01:31:43.648536Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 60089,
-      "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
-      "installedFile": {
-        "id": 2671937,
-        "displayName": "[1.12.2] Mouse Tweaks 2.10",
-        "fileName": "MouseTweaks-2.10-mc1.12.2.jar",
-        "fileDate": "2019-02-11T11:33:40.123Z",
-        "fileLength": 75170,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2671/937/MouseTweaks-2.10-mc1.12.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 2671938,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3802495670,
-            "type": 3
-          },
-          {
-            "foldername": "yalter",
-            "fingerprint": 2419623870,
-            "type": 3
-          },
-          {
-            "foldername": "litemod.json",
-            "fingerprint": 3374986446,
-            "type": 3
-          },
-          {
-            "foldername": "mousetweaks_logo.png",
-            "fingerprint": 523611981,
-            "type": 3
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 101733854,
-            "type": 3
-          }
-        ],
-        "packageFingerprint": 533666569,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1512844,
-        "projectId": 60089,
-        "packageFingerprintId": 292946671,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1751443,
-        "gameVersionId": 4458,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "MouseTweaks-2.10-mc1.12.2.jar"
-      },
-      "dateInstalled": "2019-11-26T19:02:16.595892Z",
-      "dateUpdated": "2018-11-26T19:02:16.595892Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -12422,44 +12422,80 @@
       "installedTargets": null
     },
     {
-      "addonID": 242818,
+      "addonID": 293505,
       "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
       "installedFile": {
-        "id": 2779848,
-        "displayName": "CodeChicken Lib 1.12.2-3.2.3.358-universal",
-        "fileName": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
-        "fileDate": "2019-09-06T23:00:03.483Z",
-        "fileLength": 704330,
+        "id": 2766866,
+        "displayName": "thaumicperiphery-0.3.1.jar",
+        "fileName": "thaumicperiphery-0.3.1.jar",
+        "fileDate": "2019-08-21T14:02:08.59Z",
+        "fileLength": 285686,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2779/848/CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2766/866/thaumicperiphery-0.3.1.jar",
         "isAlternate": false,
-        "alternateFileId": 2779849,
-        "dependencies": [],
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 300777,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 227083,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 225643,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 300742,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 223628,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4021114675,
+            "fingerprint": 2456895117,
+            "type": 0
+          },
+          {
+            "foldername": "thaumicperiphery",
+            "fingerprint": 770462621,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 3618322680,
-            "type": 0
-          },
-          {
-            "foldername": "codechicken",
-            "fingerprint": 3367392570,
+            "fingerprint": 3701124943,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 2473310429,
+            "fingerprint": 3602492894,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 161561911,
             "type": 0
           }
         ],
-        "packageFingerprint": 2940918666,
+        "packageFingerprint": 712648954,
         "gameVersion": [
           "1.12.2"
         ],
@@ -12472,11 +12508,11 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
+        "FileNameOnDisk": "thaumicperiphery-0.3.1.jar"
       },
-      "dateInstalled": "2019-03-27T23:39:19.9344438Z",
-      "dateUpdated": "2019-11-07T01:31:15.1677Z",
-      "dateLastUpdateAttempted": "2019-11-07T01:31:15.1677Z",
+      "dateInstalled": "2019-06-01T01:41:32.4301004Z",
+      "dateUpdated": "2019-11-07T01:32:49.5572828Z",
+      "dateLastUpdateAttempted": "2019-11-07T01:32:49.5572828Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -12589,80 +12625,44 @@
       "installedTargets": null
     },
     {
-      "addonID": 293505,
+      "addonID": 242818,
       "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
       "installedFile": {
-        "id": 2766866,
-        "displayName": "thaumicperiphery-0.3.1.jar",
-        "fileName": "thaumicperiphery-0.3.1.jar",
-        "fileDate": "2019-08-21T14:02:08.59Z",
-        "fileLength": 285686,
+        "id": 2779848,
+        "displayName": "CodeChicken Lib 1.12.2-3.2.3.358-universal",
+        "fileName": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+        "fileDate": "2019-09-06T23:00:03.483Z",
+        "fileLength": 704330,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2766/866/thaumicperiphery-0.3.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2779/848/CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
         "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 300777,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 227083,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 225643,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 300742,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 223628,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
+        "alternateFileId": 2779849,
+        "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2456895117,
-            "type": 0
-          },
-          {
-            "foldername": "thaumicperiphery",
-            "fingerprint": 770462621,
+            "fingerprint": 4021114675,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 3701124943,
+            "fingerprint": 3618322680,
+            "type": 0
+          },
+          {
+            "foldername": "codechicken",
+            "fingerprint": 3367392570,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 3602492894,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 161561911,
+            "fingerprint": 2473310429,
             "type": 0
           }
         ],
-        "packageFingerprint": 712648954,
+        "packageFingerprint": 2940918666,
         "gameVersion": [
           "1.12.2"
         ],
@@ -12675,11 +12675,11 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "thaumicperiphery-0.3.1.jar"
+        "FileNameOnDisk": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
       },
-      "dateInstalled": "2019-06-01T01:41:32.4301004Z",
-      "dateUpdated": "2019-11-07T01:32:49.5572828Z",
-      "dateLastUpdateAttempted": "2019-11-07T01:32:49.5572828Z",
+      "dateInstalled": "2019-03-27T23:39:19.9344438Z",
+      "dateUpdated": "2019-11-07T01:31:15.1677Z",
+      "dateLastUpdateAttempted": "2019-11-07T01:31:15.1677Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -13462,7 +13462,7 @@
       "dateInstalled": "2019-03-27T23:39:28.2123102Z",
       "dateUpdated": "2019-12-29T04:09:56.3559631Z",
       "dateLastUpdateAttempted": "2019-12-29T04:09:56.3559631Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
