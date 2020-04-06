@@ -85,12 +85,13 @@ aoa3:shell
 aoa3:crush
 aoa3:form
 aoa3:greed
-bewitchment:magic_protection
-bibliocraft:bibliocraft.deathcompassench
-bibliocraft:bibliocraft.readingench
 tombstone:shadow_step
 tombstone:soulbound
 tombstone:magic_siphon
+tombstone:plague_bringer
+bewitchment:magic_protection
+bibliocraft:bibliocraft.deathcompassench
+bibliocraft:bibliocraft.readingench
 evilcraft:unusing
 evilcraft:breaking
 evilcraft:life_stealing

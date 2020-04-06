@@ -115,6 +115,14 @@ twilightforest:dark_forest_center
 twilightforest:highlands_center
 twilightforest:thornlands
 twilightforest:spooky_forest
+divinerpg:eden
+divinerpg:wildwood
+divinerpg:apalachia
+divinerpg:skythern
+divinerpg:mortum
+divinerpg:iceika
+divinerpg:arcana
+divinerpg:arksiane
 erebus:underground_jungle
 erebus:volcanic_desert
 erebus:subterranean_savannah
