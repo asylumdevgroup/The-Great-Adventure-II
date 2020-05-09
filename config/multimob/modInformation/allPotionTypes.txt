@@ -56,7 +56,6 @@ netherex:freezing
 netherex:frigid_health
 netherex:dispersal
 netherex:sorrow
-voidcraft:voidimmunity
 abyssalcraft:cplague
 abyssalcraft:cplague_long
 abyssalcraft:dplague

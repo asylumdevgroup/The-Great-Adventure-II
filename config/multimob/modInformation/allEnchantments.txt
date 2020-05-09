@@ -92,6 +92,8 @@ tombstone:plague_bringer
 bewitchment:magic_protection
 bibliocraft:bibliocraft.deathcompassench
 bibliocraft:bibliocraft.readingench
+divinerpg:world_break
+divinerpg:double_dealing_damage
 evilcraft:unusing
 evilcraft:breaking
 evilcraft:life_stealing

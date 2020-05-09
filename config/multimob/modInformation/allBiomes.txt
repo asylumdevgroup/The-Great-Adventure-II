@@ -122,7 +122,7 @@ divinerpg:skythern
 divinerpg:mortum
 divinerpg:iceika
 divinerpg:arcana
-divinerpg:arksiane
+divinerpg:vethea
 erebus:underground_jungle
 erebus:volcanic_desert
 erebus:subterranean_savannah
@@ -160,12 +160,6 @@ traverse:desert_shrubland
 traverse:thicket
 traverse:arid_highland
 traverse:rocky_plains
-voidcraft:voidcraft_biome_void
-voidcraft:voidcraft_biome_xia
-voidcraft:voidcraft_biome_dream_overworld
-voidcraft:voidcraft_biome_dream_nether
-voidcraft:voidcraft_biome_dream_end
-voidcraft:voidcraft_biome_dream_void
 wizardry:wizardry_torikkisea
 wizardry:wizardry_torikki
 wizardry:wizardry_underworld
@@ -194,6 +188,7 @@ thebetweenlands:patchy_islands
 thebetweenlands:swamplands
 thebetweenlands:deep_waters
 thebetweenlands:coarse_islands
+thebetweenlands:raised_isles
 thebetweenlands:sludge_plains
 thebetweenlands:marsh_0
 thebetweenlands:marsh_1
