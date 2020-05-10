@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2020-05-09T02:30:06.7449171Z",
+  "lastPlayed": "2020-05-09T23:59:16.7056244Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1740,21 +1740,6 @@
       "fileSize": 843486
     },
     {
-      "folderName": "TheBetweenlands-3.6.0-universal.jar",
-      "fingerprint": 2989792129,
-      "fileDateHash": 698144025,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2989792129
-      ],
-      "status": 1,
-      "timestamp": "2020-05-09T02:19:30.5103863Z",
-      "lastWriteTimeUtc": "2020-05-09T02:17:21.1384854Z",
-      "queryTimestamp": "2020-05-09T02:19:31.3870418Z",
-      "fileCount": 1,
-      "fileSize": 107582788
-    },
-    {
       "folderName": "New World",
       "fingerprint": 2258245092,
       "fileDateHash": 1872945865,
@@ -1944,6 +1929,21 @@
       "fileSize": 0
     },
     {
+      "folderName": "TheBetweenlands-3.6.0-universal.jar",
+      "fingerprint": 2989792129,
+      "fileDateHash": 698144025,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2989792129
+      ],
+      "status": 1,
+      "timestamp": "2020-05-09T02:19:30.5103863Z",
+      "lastWriteTimeUtc": "2020-05-09T02:17:21.1384854Z",
+      "queryTimestamp": "2020-05-09T02:19:31.3870418Z",
+      "fileCount": 1,
+      "fileSize": 107582788
+    },
+    {
       "folderName": "FTBMoney-1.1.0.42.jar",
       "fingerprint": 2874441355,
       "fileDateHash": 396978739,
@@ -1959,21 +1959,6 @@
       "fileSize": 89902
     },
     {
-      "folderName": "iceandfire-1.9.1-1.12.2.jar",
-      "fingerprint": 2365316237,
-      "fileDateHash": 3572570881,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2365316237
-      ],
-      "status": 1,
-      "timestamp": "2020-05-09T02:19:30.2131817Z",
-      "lastWriteTimeUtc": "2020-05-02T02:22:53.9234217Z",
-      "queryTimestamp": "2020-05-09T02:19:31.3880387Z",
-      "fileCount": 1,
-      "fileSize": 20467820
-    },
-    {
       "folderName": "EnchantingPlus-1.12.2-5.0.176.jar",
       "fingerprint": 318562578,
       "fileDateHash": 1702057126,
@@ -1987,6 +1972,21 @@
       "queryTimestamp": "2020-05-09T02:19:31.3880387Z",
       "fileCount": 1,
       "fileSize": 142767
+    },
+    {
+      "folderName": "iceandfire-1.9.1-1.12.2.jar",
+      "fingerprint": 2365316237,
+      "fileDateHash": 3572570881,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2365316237
+      ],
+      "status": 1,
+      "timestamp": "2020-05-09T02:19:30.2131817Z",
+      "lastWriteTimeUtc": "2020-05-02T02:22:53.9234217Z",
+      "queryTimestamp": "2020-05-09T02:19:31.3880387Z",
+      "fileCount": 1,
+      "fileSize": 20467820
     },
     {
       "folderName": "wizardry-0.10.8.jar",
@@ -2739,21 +2739,6 @@
       "fileSize": 601126
     },
     {
-      "folderName": "ThaumicInventoryScanning_1.12.2-2.0.10.jar",
-      "fingerprint": 1964344708,
-      "fileDateHash": 1806300100,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1964344708
-      ],
-      "status": 1,
-      "timestamp": "2019-11-26T19:02:14.2107244Z",
-      "lastWriteTimeUtc": "2019-06-01T01:37:44.8918814Z",
-      "queryTimestamp": "2020-05-09T02:19:31.39502Z",
-      "fileCount": 1,
-      "fileSize": 17224
-    },
-    {
       "folderName": "astralsorcery-1.12.2-1.10.23.jar",
       "fingerprint": 3578244138,
       "fileDateHash": 1415067236,
@@ -2767,6 +2752,21 @@
       "queryTimestamp": "2020-05-09T02:19:31.39502Z",
       "fileCount": 1,
       "fileSize": 24976385
+    },
+    {
+      "folderName": "ThaumicInventoryScanning_1.12.2-2.0.10.jar",
+      "fingerprint": 1964344708,
+      "fileDateHash": 1806300100,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1964344708
+      ],
+      "status": 1,
+      "timestamp": "2019-11-26T19:02:14.2107244Z",
+      "lastWriteTimeUtc": "2019-06-01T01:37:44.8918814Z",
+      "queryTimestamp": "2020-05-09T02:19:31.39502Z",
+      "fileCount": 1,
+      "fileSize": 17224
     },
     {
       "folderName": "CyclopsCore-1.12.2-1.1.1.jar",
@@ -2784,21 +2784,6 @@
       "fileSize": 981360
     },
     {
-      "folderName": "The Beneath-1.12.2-1.5.0.jar",
-      "fingerprint": 819776408,
-      "fileDateHash": 2680753781,
-      "sectionID": 6,
-      "individualFingerprints": [
-        819776408
-      ],
-      "status": 1,
-      "timestamp": "2019-03-28T23:50:44.3039998Z",
-      "lastWriteTimeUtc": "2019-03-28T23:48:31.8815671Z",
-      "queryTimestamp": "2020-05-09T02:19:31.3960175Z",
-      "fileCount": 1,
-      "fileSize": 6128488
-    },
-    {
       "folderName": "Animus-1.12-2.1.7.jar",
       "fingerprint": 4208511036,
       "fileDateHash": 2172926357,
@@ -2812,6 +2797,21 @@
       "queryTimestamp": "2020-05-09T02:19:31.3960175Z",
       "fileCount": 1,
       "fileSize": 349684
+    },
+    {
+      "folderName": "The Beneath-1.12.2-1.5.0.jar",
+      "fingerprint": 819776408,
+      "fileDateHash": 2680753781,
+      "sectionID": 6,
+      "individualFingerprints": [
+        819776408
+      ],
+      "status": 1,
+      "timestamp": "2019-03-28T23:50:44.3039998Z",
+      "lastWriteTimeUtc": "2019-03-28T23:48:31.8815671Z",
+      "queryTimestamp": "2020-05-09T02:19:31.3960175Z",
+      "fileCount": 1,
+      "fileSize": 6128488
     },
     {
       "folderName": "NetherEx-1.12.2-2.0.8.jar",
@@ -7179,6 +7179,74 @@
       "installedTargets": null
     },
     {
+      "addonID": 340583,
+      "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
+      "installedFile": {
+        "id": 2947823,
+        "displayName": "bettercaves-1.12.2-2.0.2.jar",
+        "fileName": "bettercaves-1.12.2-2.0.2.jar",
+        "fileDate": "2020-05-04T03:47:40.04Z",
+        "fileLength": 195561,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2947/823/bettercaves-1.12.2-2.0.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1832200942,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 797473867,
+            "type": 0
+          },
+          {
+            "foldername": "BetterCavesLogo.png",
+            "fingerprint": 4014541875,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1249832483,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3592692426,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "bettercaves-1.12.2-2.0.2.jar"
+      },
+      "dateInstalled": "2020-05-09T02:41:13.9926826Z",
+      "dateUpdated": "2020-05-09T02:41:13.9936787Z",
+      "dateLastUpdateAttempted": "2020-05-09T02:41:13.9936787Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 237541,
       "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
       "installedFile": {
@@ -9188,6 +9256,121 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 292785,
+      "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
+      "installedFile": {
+        "id": 2915154,
+        "displayName": "VanillaFix 1.0.10-150",
+        "fileName": "VanillaFix-1.0.10-150.jar",
+        "fileDate": "2020-03-28T20:11:04.723Z",
+        "fileLength": 1025896,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2915/154/VanillaFix-1.0.10-150.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 740397635,
+            "type": 0
+          },
+          {
+            "foldername": "org",
+            "fingerprint": 1961485528,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 361536539,
+            "type": 0
+          },
+          {
+            "foldername": "mixins.vanillafix.textures.modsupport.json",
+            "fingerprint": 3519259910,
+            "type": 0
+          },
+          {
+            "foldername": "dst_root_ca_x3.jks",
+            "fingerprint": 1567663994,
+            "type": 0
+          },
+          {
+            "foldername": "mixins.vanillafix.bugs.json",
+            "fingerprint": 2753214984,
+            "type": 0
+          },
+          {
+            "foldername": "mixins.vanillafix.modsupport.json",
+            "fingerprint": 3089231482,
+            "type": 0
+          },
+          {
+            "foldername": "mixins.vanillafix.profiler.json",
+            "fingerprint": 3040386461,
+            "type": 0
+          },
+          {
+            "foldername": "mixins.vanillafix.crashes.json",
+            "fingerprint": 2448802141,
+            "type": 0
+          },
+          {
+            "foldername": "mixins.vanillafix.textures.json",
+            "fingerprint": 1592007373,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1908053936,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4257585702,
+            "type": 0
+          },
+          {
+            "foldername": "mixins.vanillafix.refmap.json",
+            "fingerprint": 764242549,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2608670190,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "VanillaFix-1.0.10-150.jar"
+      },
+      "dateInstalled": "2020-05-09T23:59:05.1904176Z",
+      "dateUpdated": "2020-05-09T23:59:05.1924123Z",
+      "dateLastUpdateAttempted": "2020-05-09T23:59:05.1924123Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 247111,
@@ -11750,90 +11933,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 60089,
-      "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
-      "installedFile": {
-        "id": 2671937,
-        "displayName": "[1.12.2] Mouse Tweaks 2.10",
-        "fileName": "MouseTweaks-2.10-mc1.12.2.jar",
-        "fileDate": "2019-02-11T11:33:40.123Z",
-        "fileLength": 75170,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2671/937/MouseTweaks-2.10-mc1.12.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 2671938,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3802495670,
-            "type": 3
-          },
-          {
-            "foldername": "yalter",
-            "fingerprint": 2419623870,
-            "type": 3
-          },
-          {
-            "foldername": "litemod.json",
-            "fingerprint": 3374986446,
-            "type": 3
-          },
-          {
-            "foldername": "mousetweaks_logo.png",
-            "fingerprint": 523611981,
-            "type": 3
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 101733854,
-            "type": 3
-          }
-        ],
-        "packageFingerprint": 533666569,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "sortableGameVersion": [
-          {
-            "gameVersionPadded": "0000000001.0000000012.0000000002",
-            "gameVersion": "1.12.2",
-            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
-            "gameVersionName": "1.12.2"
-          }
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 6,
-        "restrictProjectFileAccess": 1,
-        "projectStatus": 4,
-        "renderCacheId": 1512844,
-        "projectId": 60089,
-        "packageFingerprintId": 292946671,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameVersionMappingId": 1751443,
-        "gameVersionId": 4458,
-        "gameId": 432,
-        "isServerPack": false,
-        "FileNameOnDisk": "MouseTweaks-2.10-mc1.12.2.jar"
-      },
-      "dateInstalled": "2019-11-26T19:02:16.595892Z",
-      "dateUpdated": "2018-11-26T19:02:16.595892Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 306283,
       "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
       "installedFile": {
@@ -11907,6 +12006,90 @@
       "dateInstalled": "2019-03-27T23:43:56.8694814Z",
       "dateUpdated": "2019-11-07T01:31:43.648536Z",
       "dateLastUpdateAttempted": "2019-11-07T01:31:43.648536Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 60089,
+      "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
+      "installedFile": {
+        "id": 2671937,
+        "displayName": "[1.12.2] Mouse Tweaks 2.10",
+        "fileName": "MouseTweaks-2.10-mc1.12.2.jar",
+        "fileDate": "2019-02-11T11:33:40.123Z",
+        "fileLength": 75170,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2671/937/MouseTweaks-2.10-mc1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 2671938,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3802495670,
+            "type": 3
+          },
+          {
+            "foldername": "yalter",
+            "fingerprint": 2419623870,
+            "type": 3
+          },
+          {
+            "foldername": "litemod.json",
+            "fingerprint": 3374986446,
+            "type": 3
+          },
+          {
+            "foldername": "mousetweaks_logo.png",
+            "fingerprint": 523611981,
+            "type": 3
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 101733854,
+            "type": 3
+          }
+        ],
+        "packageFingerprint": 533666569,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2"
+          }
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1512844,
+        "projectId": 60089,
+        "packageFingerprintId": 292946671,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameVersionMappingId": 1751443,
+        "gameVersionId": 4458,
+        "gameId": 432,
+        "isServerPack": false,
+        "FileNameOnDisk": "MouseTweaks-2.10-mc1.12.2.jar"
+      },
+      "dateInstalled": "2019-11-26T19:02:16.595892Z",
+      "dateUpdated": "2018-11-26T19:02:16.595892Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -12027,14 +12210,14 @@
       "addonID": 223852,
       "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
       "installedFile": {
-        "id": 2887858,
-        "displayName": "StorageDrawers-1.12.2-5.4.1.jar",
-        "fileName": "StorageDrawers-1.12.2-5.4.1.jar",
-        "fileDate": "2020-02-24T06:13:00.34Z",
-        "fileLength": 605381,
+        "id": 2952606,
+        "displayName": "StorageDrawers-1.12.2-5.4.2.jar",
+        "fileName": "StorageDrawers-1.12.2-5.4.2.jar",
+        "fileDate": "2020-05-09T19:26:15.443Z",
+        "fileLength": 605947,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2887/858/StorageDrawers-1.12.2-5.4.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2952/606/StorageDrawers-1.12.2-5.4.2.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -12049,22 +12232,22 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 764957496,
+            "fingerprint": 2707777236,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 3391784570,
+            "fingerprint": 1995254929,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 3801558541,
+            "fingerprint": 2242422060,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 2002150677,
+            "fingerprint": 3411942826,
             "type": 0
           },
           {
@@ -12073,11 +12256,10 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 2630207210,
+        "packageFingerprint": 880280580,
         "gameVersion": [
           "1.12",
           "1.12.1",
-          "Forge",
           "1.12.2"
         ],
         "hasInstallScript": false,
@@ -12089,12 +12271,12 @@
         "gameVersionDateReleased": "2017-06-07T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "StorageDrawers-1.12.2-5.4.1.jar"
+        "FileNameOnDisk": "StorageDrawers-1.12.2-5.4.2.jar"
       },
       "dateInstalled": "2019-03-27T23:38:17.1533055Z",
-      "dateUpdated": "2020-04-05T21:49:30.1607327Z",
-      "dateLastUpdateAttempted": "2020-04-05T21:49:30.1607327Z",
-      "status": 5,
+      "dateUpdated": "2020-05-09T23:58:40.380763Z",
+      "dateLastUpdateAttempted": "2020-05-09T23:58:40.380763Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -12437,6 +12619,73 @@
       "installedTargets": null
     },
     {
+      "addonID": 242818,
+      "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
+      "installedFile": {
+        "id": 2779848,
+        "displayName": "CodeChicken Lib 1.12.2-3.2.3.358-universal",
+        "fileName": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+        "fileDate": "2019-09-06T23:00:03.483Z",
+        "fileLength": 704330,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2779/848/CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+        "isAlternate": false,
+        "alternateFileId": 2779849,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4021114675,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3618322680,
+            "type": 0
+          },
+          {
+            "foldername": "codechicken",
+            "fingerprint": 3367392570,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2473310429,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2940918666,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
+      },
+      "dateInstalled": "2019-03-27T23:39:19.9344438Z",
+      "dateUpdated": "2019-11-07T01:31:15.1677Z",
+      "dateLastUpdateAttempted": "2019-11-07T01:31:15.1677Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 293505,
       "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
       "installedFile": {
@@ -12528,73 +12777,6 @@
       "dateInstalled": "2019-06-01T01:41:32.4301004Z",
       "dateUpdated": "2019-11-07T01:32:49.5572828Z",
       "dateLastUpdateAttempted": "2019-11-07T01:32:49.5572828Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 242818,
-      "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
-      "installedFile": {
-        "id": 2779848,
-        "displayName": "CodeChicken Lib 1.12.2-3.2.3.358-universal",
-        "fileName": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
-        "fileDate": "2019-09-06T23:00:03.483Z",
-        "fileLength": 704330,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2779/848/CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
-        "isAlternate": false,
-        "alternateFileId": 2779849,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 4021114675,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3618322680,
-            "type": 0
-          },
-          {
-            "foldername": "codechicken",
-            "fingerprint": 3367392570,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2473310429,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2940918666,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
-      },
-      "dateInstalled": "2019-03-27T23:39:19.9344438Z",
-      "dateUpdated": "2019-11-07T01:31:15.1677Z",
-      "dateLastUpdateAttempted": "2019-11-07T01:31:15.1677Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -13240,14 +13422,14 @@
       "addonID": 278494,
       "gameInstanceID": "5e0dc887-08ed-4c9d-af7b-2898cee0bb52",
       "installedFile": {
-        "id": 2831558,
-        "displayName": "FoamFix 0.10.9 (1.12.2)",
-        "fileName": "foamfix-0.10.9-1.12.2.jar",
-        "fileDate": "2019-11-23T21:46:27.69Z",
-        "fileLength": 201719,
+        "id": 2845668,
+        "displayName": "FoamFix 0.10.10 (1.12.2)",
+        "fileName": "foamfix-0.10.10-1.12.2.jar",
+        "fileDate": "2019-12-20T09:14:01.333Z",
+        "fileLength": 201683,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2831/558/foamfix-0.10.9-1.12.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2845/668/foamfix-0.10.10-1.12.2.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -13255,7 +13437,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2826518746,
+            "fingerprint": 1843591489,
             "type": 0
           },
           {
@@ -13280,11 +13462,11 @@
           },
           {
             "foldername": "pl",
-            "fingerprint": 995354786,
+            "fingerprint": 1768026654,
             "type": 0
           }
         ],
-        "packageFingerprint": 2271483576,
+        "packageFingerprint": 3326311587,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -13298,12 +13480,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "foamfix-0.10.9-1.12.2.jar"
+        "FileNameOnDisk": "foamfix-0.10.10-1.12.2.jar"
       },
       "dateInstalled": "2019-03-27T23:39:28.2123102Z",
-      "dateUpdated": "2019-12-29T04:09:56.3559631Z",
-      "dateLastUpdateAttempted": "2019-12-29T04:09:56.3559631Z",
-      "status": 3,
+      "dateUpdated": "2020-05-10T00:12:42.7173067Z",
+      "dateLastUpdateAttempted": "2020-05-10T00:12:42.7173067Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
