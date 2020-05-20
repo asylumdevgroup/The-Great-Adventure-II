@@ -184,13 +184,3 @@ dimdoors:white_void
 dimdoors:black_void
 dimdoors:dangerous_black_void
 beneath:the_beneath
-thebetweenlands:patchy_islands
-thebetweenlands:swamplands
-thebetweenlands:deep_waters
-thebetweenlands:coarse_islands
-thebetweenlands:raised_isles
-thebetweenlands:sludge_plains
-thebetweenlands:marsh_0
-thebetweenlands:marsh_1
-thebetweenlands:swamplands_clearing
-thebetweenlands:sludge_plains_clearing
